@@ -7,16 +7,6 @@ import javax.swing.JComponent;
 import java.awt.Font;
 import java.awt.FontMetrics;
 import java.awt.Transparency;
-/**
- *Circle w/ your choice of color
- *Write "This Group" within circle
- * Two more circles on downward angle from 1st circle
- * Circle 1 = "Gym." 
- * Circle 2 = "English"
- * Circle 3 = "Math"
- * @Su-Ah L + Fredrick O
- * @version (2.0)
- */
 public class CirclyCircly
 {
    public static void draw(Graphics g)
